@@ -24,6 +24,7 @@ This repository contains my work for the **PwC Switzerland Power BI Virtual Inte
 - Develop a Power BI dashboard to display relevant KPIs from a provided dataset.
 - Utilize resources such as podcasts and articles to deepen knowledge of data visualization and digital upskilling.
 - Present a well-structured dashboard addressing the client's request.
+![image](https://github.com/user-attachments/assets/29c536b2-3558-445e-bcc1-d8cfa53cf5df)
 
 ---
 
