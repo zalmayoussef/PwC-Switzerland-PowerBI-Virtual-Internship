@@ -36,6 +36,7 @@ This repository contains my work for the **PwC Switzerland Power BI Virtual Inte
 **What we do:**
 - Build a Power BI dashboard to represent customer demographics and retention KPIs.
 - Draft a concise email to the engagement partner summarizing insights and proposing recommendations based on the dashboard findings.
+![image](https://github.com/user-attachments/assets/e81472dd-4b65-4eb9-9af7-50dd7549fe85)
 
 ---
 
